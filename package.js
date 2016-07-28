@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ksrv:system-messages-toastr',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Show system messages by toastr',
   git: 'https://github.com/ksrv/system-messages-toastr.git',
   documentation: 'README.md'
